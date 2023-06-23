@@ -1,0 +1,11 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+com.test.junit.activity5,default,Ejercicio2Test,63,0,0,0,15,0,3,0,3,0
+com.test.junit.activity5,default,Ejercicio4Test_j5,190,0,0,0,13,0,3,0,3,0
+com.test.junit.activity5,default,Ejercicio5Test_j5,383,0,0,0,31,0,6,0,6,0
+com.test.junit.activity5,default,Ejercicio3Test_j5,13,0,0,0,4,0,2,0,2,0
+com.test.junit.activity5,default,Ejercicio1Test,48,0,0,0,13,0,2,0,2,0
+com.test.junit.activity5,com.test.junit.activity5,Ejercicio4,79,0,6,0,15,0,6,0,3,0
+com.test.junit.activity5,com.test.junit.activity5,Ejercicio5,73,0,10,0,19,0,7,0,2,0
+com.test.junit.activity5,com.test.junit.activity5,Ejercicio1,42,0,6,0,10,0,5,0,2,0
+com.test.junit.activity5,com.test.junit.activity5,Ejercicio2,38,0,12,0,9,0,9,0,3,0
+com.test.junit.activity5,com.test.junit.activity5,Ejercicio3,31,0,10,0,8,0,7,0,2,0
